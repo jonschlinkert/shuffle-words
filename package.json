@@ -1,7 +1,7 @@
 {
   "name": "shuffle-words",
   "description": "Shuffle the words in a string and optionally the letters in each word using the Fisher-Yates algorithm. Useful for creating test fixtures, benchmarking samples, etc.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/shuffle-words",
   "author": {
     "name": "Jon Schlinkert",
@@ -47,6 +47,8 @@
     "permutation",
     "random",
     "randomly",
+    "randomize",
+    "randomizer",
     "replacement",
     "samples",
     "set",
